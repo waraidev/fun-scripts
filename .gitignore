@@ -1,0 +1,10 @@
+venv
+.devcontainer
+
+lyrics.txt
+
+# JSON
+*.json
+
+# Mac
+*.DS_Store
